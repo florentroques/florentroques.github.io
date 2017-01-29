@@ -1,0 +1,13 @@
+- Ublock origin
+- Ecosia and Lilo
+- Living on light
+ - documentaire "Lumière"
+ - pranique.com
+- Smartphone apps for bio etc
+- Jim Carrey video
+- bio shops and veganism
+- permaculture
+- ludocoaching
+- romain salomon
+- quatre accords toltèques pour se protéger
+- livres christian tal schaller
