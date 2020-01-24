@@ -7,6 +7,5 @@ Consulting in
 
 Projects :
 
-The Haka's game ludocoach  
-https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068
->linked website : https://www.jeuduhaka.com
+[The Haka's game ludocoach](https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068)
+>linked website : [https://www.jeuduhaka.com](https://www.jeuduhaka.com)
