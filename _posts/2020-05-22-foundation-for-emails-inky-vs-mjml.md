@@ -1,7 +1,10 @@
+---
+permalink: foundation-for-emails-inky-vs-mjml
 layout: page
 title: "Foundation for Emails (Inky) vs MJML"
 date: 2020-05-22
 <!--categories: CATEGORY-1 CATEGORY-2-->
+---
 
 Email template languages have created significant buzz. They promise to abstract away the quirks and annoyances of email rendering, allowing you to write clean simple code that will be transpiled to raw HTML as a final step. The two leading contenders are Foundation for Emails 2 by Foundation and MJML by MailJet.
 
