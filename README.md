@@ -3,7 +3,7 @@ Consulting in
 - Web Marketing
 - Web development
 
-+33612349579
+<a href="tel:+33612349579">+33612349579</a>
 
 Built an iOS app using [expo.io](https://expo.io/@florentroques):
 >[The Haka's game ludocoach](https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068)  
