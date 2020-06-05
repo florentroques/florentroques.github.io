@@ -11,6 +11,6 @@ Built an iOS app using [expo.io](https://expo.io/@florentroques):
 
 You can find me on  
 
-| Stack Overflow   | Github        |
+| Stack Overflow   | GitHub        |
 | ---------------  | ------------- |
 | <a href="https://stackoverflow.com/users/1152843/florent-roques"><img src="https://stackoverflow.com/users/flair/1152843.png" width="208" height="58" alt="profile for Florent Roques at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Florent Roques at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>     | <a href="https://github.com/florentroques"><img src="https://grass-graph.moshimo.works/images/florentroques.png" width="650"></a>  |
