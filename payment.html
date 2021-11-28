@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Paiements</title>
+</head>
+<body>
+  <h4>Nom de domaine (1 année)</h4>
+  <div id="paypal-button-container-P-00X96613BT2103744MGRTPGA"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AXiS4w4doO8vVLH0pfDo9kjgp9hxHdKVhnvEi-K1ePkejtA-WTF0Nv_htb2KhdHPN8X7Xpg40pi2iM2b&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'subscribe'
+      },
+      createSubscription: function(data, actions) {
+        return actions.subscription.create({
+          /* Creates the subscription */
+          plan_id: 'P-00X96613BT2103744MGRTPGA'
+        });
+      },
+      onApprove: function(data, actions) {
+        alert(data.subscriptionID); // You can add optional success message for the subscriber here
+      }
+  }).render('#paypal-button-container-P-00X96613BT2103744MGRTPGA'); // Renders the PayPal button
+</script>
+</body>
+</html>
