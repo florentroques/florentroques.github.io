@@ -1,7 +1,6 @@
 # Florent Roques
 
 Looking to reskill myself in Data Science
-> already some knowledge with Python and Pandas package
 
 Consulting in
 - Web development (8 years)
