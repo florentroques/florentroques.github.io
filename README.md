@@ -19,8 +19,8 @@ Realizations:
   >[The Haka's game ludocoach Android](https://play.google.com/store/apps/details?id=com.marckucharz.jeuduhakaludocoach)  
   >Website: [https://www.jeuduhaka.com](https://www.jeuduhaka.com)
 - Websites
-  > https://catherinehenryplessier.fr (realized first version with Wordpress and Divi)  
-  > https://rucherdescanon.fr (realized first version with systeme.io)
+  > [https://catherinehenryplessier.fr](https://catherinehenryplessier.fr) (realized first version with Wordpress and Divi)  
+  > [https://rucherdescanon.fr](https://rucherdescanon.fr) (realized first version with systeme.io)
 - Built several landing pages for clients with Leadpages
   
 
