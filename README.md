@@ -1,6 +1,7 @@
 # Florent Roques
 
-Looking to reskill myself in Data Science
+Looking to reskill myself in Data Science  
+https://www.kaggle.com/florentroques
 
 Consulting in
 - Web development (8 years)
