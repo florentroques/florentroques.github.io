@@ -1,13 +1,13 @@
 # Florent Roques
 
 Consulting in
-- Web development (8 years)
+- Web development (7 years)
   > HTML, CSS  
   > PHP, Symfony 2 & 3  
   > Javascript, jQuery, React  
 - Mobile app development (1 year)  
   > expo.dev, React Native  
-- Web Marketing (2 years as freelancer)  
+- Web Marketing (2 years)  
   > Leadpages, Wordpress, systeme.io, Facebook advertising  
 - Scraping with Python
 
