@@ -17,7 +17,7 @@ Realizations:
   >[The Haka's game ludocoach Android](https://play.google.com/store/apps/details?id=com.marckucharz.jeuduhakaludocoach)  
   >Website: [https://www.jeuduhaka.com](https://www.jeuduhaka.com)
 - Public websites
-  > [https://catherinehenryplessier.fr](https://catherinehenryplessier.fr)
+  > [https://catherinehenryplessier.fr](https://catherinehenryplessier.fr)  
   > [https://soignez-heureux.com](https://soignez-heureux.com)
 - Built several landing pages for clients with Leadpages
   
