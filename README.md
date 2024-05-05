@@ -12,7 +12,7 @@ Consulting in
 - Scraping with Python
 
 Realizations:  
-- iOS/Android app using [expo.dev](https://expo.dev/@florentroques)/React Native:
+- iOS/Android app using React Native/Expo:
   >~~[The Haka's game ludocoach iOS](https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068)~~  
   >~~[The Haka's game ludocoach Android](https://play.google.com/store/apps/details?id=com.marckucharz.jeuduhakaludocoach)~~  
   >Website: [https://www.jeuduhaka.com](https://www.jeuduhaka.com)
