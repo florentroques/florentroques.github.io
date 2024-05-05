@@ -1,20 +1,20 @@
 # Florent Roques
 
 Consulting in
-- Web development (7 years)
+- Web development (5 years)
   > HTML, CSS  
   > PHP, Symfony 2 & 3  
   > Javascript, jQuery, React  
 - Mobile app development (1 year)  
-  > expo.dev, React Native  
-- Web Marketing (2 years)  
+  > React Native/Expo
+- Web Marketing (1.5 years)  
   > Leadpages, Wordpress, systeme.io, Facebook advertising  
 - Scraping with Python
 
 Realizations:  
 - iOS/Android app using [expo.dev](https://expo.dev/@florentroques)/React Native:
-  >~~[The Haka's game ludocoach iOS](https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068)~~ Soon available again on iOS  
-  >[The Haka's game ludocoach Android](https://play.google.com/store/apps/details?id=com.marckucharz.jeuduhakaludocoach)  
+  >~~[The Haka's game ludocoach iOS](https://apps.apple.com/us/app/the-hakas-game-ludocoach/id1289735068)~~  
+  >~~[The Haka's game ludocoach Android](https://play.google.com/store/apps/details?id=com.marckucharz.jeuduhakaludocoach)~~  
   >Website: [https://www.jeuduhaka.com](https://www.jeuduhaka.com)
 - Public websites
   > [https://catherinehenryplessier.fr](https://catherinehenryplessier.fr)  
